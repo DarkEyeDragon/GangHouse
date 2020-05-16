@@ -1,0 +1,4 @@
+name: Ganghouse
+version: ${project.version}
+main: me.darkeyedragon.ganghouse.Ganghouse
+depend: [Houses, GangsPlus]
